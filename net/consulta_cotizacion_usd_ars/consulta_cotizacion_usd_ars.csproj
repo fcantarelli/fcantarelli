@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<!-- No se requieren PackageReference adicionales: - HttpClient está en System.Net.Http - JsonSerializer está en System.Text.Json - SmtpClient y MailMessage están en System.Net.Mail -->
+</Project>
