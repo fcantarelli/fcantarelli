@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I'm currently developing AI-powered application APIs, enabling intelligent automation, data analysis, and enhanced user experiences through seamless integration with Artificial Intelligence services.
+https://github.com/fcantarelli/AI/tree/main/LLM_integration_Engineering
 
 - 🌱 I’m currently learning about LLM services and how to integrate them with my APIs through an abstraction layer, enabling provider-agnostic and scalable AI solutions.
 
