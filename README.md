@@ -7,6 +7,9 @@ https://github.com/fcantarelli/AI/tree/main/LLM_integration_Engineering
 
 - 💬 Feel free to reach out about integration architectures, APIs, microservices, cloud platforms, or enterprise integrations. I’ll be glad to help and exchange ideas.
 
+
+
+
 [![Project Logo](./goodevprogr.bmp)](https://github.com/fcantarelli/AI/tree/main)
 
 <!--
