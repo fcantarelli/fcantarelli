@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I'm currently developing AI-powered application APIs, enabling intelligent automation, data analysis, and enhanced user experiences through seamless integration with Artificial Intelligence services.
+
+- 🌱 I’m currently learning about LLM services and how to integrate them with my APIs through an abstraction layer, enabling provider-agnostic and scalable AI solutions.
+
+- 💬 Feel free to reach out about integration architectures, APIs, microservices, cloud platforms, or enterprise integrations. I’ll be glad to help and exchange ideas.
+
+
 <!--
 **fcantarelli/fcantarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
